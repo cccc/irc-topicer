@@ -1,0 +1,19 @@
+{
+  "name": "irc-topicer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "matrix-org-irc": "^1.2.1",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.2"
+  }
+}
